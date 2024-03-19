@@ -1,0 +1,4 @@
+# Rename this file to config.py
+
+token = "" # insert real debrid api token here
+download_path = "~/Downloads/"
